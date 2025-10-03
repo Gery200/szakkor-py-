@@ -1,0 +1,2 @@
+# szakkor-py-
+.
