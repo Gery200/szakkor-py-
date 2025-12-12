@@ -5,7 +5,6 @@ try:
         szöveglista = list(map(float, tartalom.strip().split(";")))
 
 
-
         paros = []
         paratlan = []
 
